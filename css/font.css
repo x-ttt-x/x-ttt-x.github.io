@@ -1,0 +1,62 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3222351 */
+  src: url('//at.alicdn.com/t/font_3222351_2hnf71eyepl.woff2?t=1646412014851') format('woff2'),
+       url('//at.alicdn.com/t/font_3222351_2hnf71eyepl.woff?t=1646412014851') format('woff'),
+       url('//at.alicdn.com/t/font_3222351_2hnf71eyepl.ttf?t=1646412014851') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+  content: "\e731";
+}
+
+.icon-gmail:before {
+  content: "\e6a5";
+}
+
+.icon-bilibili:before {
+  content: "\e622";
+}
+
+.icon-QQ:before {
+  content: "\e882";
+}
+
+.icon-telegram-ENG:before {
+  content: "\e639";
+}
+
+.icon-liebiao:before {
+  content: "\e600";
+}
+
+.icon-liebiao1:before {
+  content: "\e601";
+}
+
+.icon-ziyuan:before {
+  content: "\e631";
+}
+
+.icon-ziyuan1:before {
+  content: "\e653";
+}
+
+.icon-xiangzi:before {
+  content: "\e761";
+}
+
+.icon-ziyuan2:before {
+  content: "\e604";
+}
+
+.icon-ziyuan3:before {
+  content: "\e614";
+}
